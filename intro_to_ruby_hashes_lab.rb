@@ -21,7 +21,7 @@ end
 def my_hash_creator(key, value)
   key = :name
   value = "Grace Hopper"
-  new_hash = {name: => "Grace Hopper"}
+  new_hash = {keyvalue}
 end
 
 def read_from_hash(hash, key)
